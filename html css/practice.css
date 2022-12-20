@@ -1,0 +1,18 @@
+h1{
+    color:red;
+    text-align:center;
+}
+div{
+    background-color:yellow;
+    width: 400px;
+    height: 400px;
+    padding: 20 px;
+    margin:20 px;
+    font-family:algerian;
+    font-size:20px;
+    font-weight:bold;
+    border:3px solid black;
+    display:flex;
+    flex-wrap:wrap;
+    
+}
